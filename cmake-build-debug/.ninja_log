@@ -1,0 +1,8 @@
+# ninja log v5
+2	1200	7215921883414439	CMakeFiles/mouse.dir/main.cpp.obj	f0ce8cc589f631b4
+1200	1390	7215921885279193	mouse.exe	c3eb734bc8328c23
+12	175	7215933252259768	CMakeFiles/mouse.dir/event.cpp.obj	9dbca8a3a1c01db0
+2	1151	7215933262013701	CMakeFiles/mouse.dir/main.cpp.obj	f0ce8cc589f631b4
+3	981	7215943865560085	CMakeFiles/mouse.dir/event.cpp.obj	9dbca8a3a1c01db0
+14	1218	7215943868073381	CMakeFiles/mouse.dir/main.cpp.obj	f0ce8cc589f631b4
+1218	1404	7215943869888484	mouse.exe	1f69baf013212da4
